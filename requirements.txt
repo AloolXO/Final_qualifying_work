@@ -1,0 +1,14 @@
+torch
+opencv-python-headless
+rasterio
+numpy
+shapely
+fiona
+transformers
+scikit-learn
+pillow
+torchvision
+matplotlib
+psutil
+scikit-image
+tkinter
