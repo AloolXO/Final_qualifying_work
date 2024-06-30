@@ -72,6 +72,8 @@ pip install -r requirements.txt
 ```bash
 python Final_qualifying_work.py
 ```
+![Приветственное меню программы](Скриншоты_работы_программы/Снимок экрана_2024-06-30_030427.png)
+
 
 ### Обучение модели
 
